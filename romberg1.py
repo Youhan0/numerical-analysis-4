@@ -2,7 +2,7 @@
 """
 Created on Wed Oct 17 16:53:10 2018
 
-@author: 闫汝海
+@author: Youhan0
 """
 
 from sympy import *
