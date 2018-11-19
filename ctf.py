@@ -2,7 +2,7 @@
 """
 Created on Mon Oct 15 18:53:18 2018
 
-@author: 闫汝海
+@author: Youhan0
 """
 
 """compound trapezoidal formula"""
